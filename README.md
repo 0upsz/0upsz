@@ -13,14 +13,14 @@
 
 ### 💡 Основные компетенции 💡
 - Инструменты: Python
-- Skills: 
+- Навыки: 
     * Data Preprocessing and Data Analysis
 
 ### ⚡️ В настоящее время ⚡️
 - Изучаю основы анализа данных и профессию Data-Science на курсе SkillFactory
 
 
-### 🙌🏻 Свяжись со мной
+### 🙌🏻 Связаться со мной
 - [Telegram](https://t.me/Oupsz)
 
 ---
